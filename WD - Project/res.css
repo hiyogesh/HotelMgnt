@@ -1,0 +1,63 @@
+img[class |="1"]{
+	float:left;
+	width:150px;
+	height:80px;
+	
+}
+A[CLASS |="1"]{
+	border:1.5px solid black; 
+	border-radius:25px;
+	float:left;
+	padding-left:40px;
+	padding-right:25px;
+	padding-top:30px;
+	padding-bottom:30px;
+	text-decoration:none;
+	text-shadow: 0 0 3px #FF0000;
+}
+A[CLASS |="1"]:hover{
+	color:white;
+	background-image: radial-gradient(red, yellow);
+}
+a[class |="2"]{
+	text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+	text-decoration:none;
+	border:2px solid white;
+	border-radius:25px;
+	float:right;
+	padding-left:40px;
+	padding-right:40px;
+	padding-bottom:20px;
+	padding-top:20px;
+}
+a[class |="2"]:hover{
+	color:white;
+	background-image: radial-gradient(red, yellow);
+}
+div[class |="1"]{
+	font-size:85px;
+	font-family:"Brush Script MT",Cursive;
+	text-shadow: 0 0 3px #ffff00, 0 0 5px #ffff00;
+}
+form{
+	font-family:"Brush Script MT",Cursive;
+	text-shadow: 0 0 3px #ffff00, 0 0 5px #FF0000;
+	padding-left:300px;
+	font-size:35px;
+	float:left;
+}
+input{
+	padding-top:15px;
+	padding-bottom:15px;
+}
+div[class |="5"]{
+	padding-left:155px;
+}
+input[class |="1"]{
+	padding-left:25px;
+	padding-right:25px;
+	background-image: radial-gradient(red, yellow);
+}
+body{
+	background-color:black;
+}
